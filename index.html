@@ -1,12 +1,16 @@
 ---
 layout: default
-title:Lambda Coding By Guojing
+title: Mini Blog by Guojing
 ---
+
+<h2>{{ page.title }}</h2>
 
 <ul>
 
   {% for post in site.posts %}
-    <li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
+
+  <li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+
+   {% endfor %}
 
 </ul>

@@ -21,5 +21,5 @@ title: Thoughts on R
 
 就在此时，你耳边隐约出现这样的对话..
 
-  WE ARE ON A BREAK.
-  WE ARE NOT ON A BREAK.
+    WE ARE ON A BREAK.
+    WE ARE NOT ON A BREAK.

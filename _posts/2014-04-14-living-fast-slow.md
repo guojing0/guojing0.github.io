@@ -38,4 +38,5 @@ title: 生活 快与慢
 8. Free yourself up to create amazing things.
 
 最后用一句话来结尾——
-  "Create something worth putting your name on."
+
+    "Create something worth putting your name on."

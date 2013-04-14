@@ -3,6 +3,8 @@ layout: default
 title: 译 Why Developing Serious Relationship in Your 20s Matters
 ---
 
+i[pic](/images/relationship.jpeg)
+
 你是20多岁吗？你是一个企业家不？你朋友，导师或者专业上的伙伴告诉过你没：现在是“建立”你自己生活的时候，别考虑定居或者要孩子的事情——尤其当你还是一个女企业家？
 
 这有用，是吗？这是你生命中唯一的时间段，当你没有限制，没有债务，不用养孩子。这是唯一的时间段你可以真正做一些有抱负和雄心的事情，如果你在变得更加实际。

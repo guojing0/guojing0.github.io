@@ -30,6 +30,10 @@ H3 {
     color: DarkBlue;
 }
 
+a {
+    text-decoration: none;
+}
+
 code {
     color: DarkBlue;
     font-style: regular;

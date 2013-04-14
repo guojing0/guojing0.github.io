@@ -4,8 +4,7 @@ title: [译]Desiderata
 ---
 
 前几天在Hacker News上有一个来源于Wikipedia的链接，我打开并没细读，只是用Chrome大致翻译下就过了。第二天在Weibo上又看到有人链接，并且前面在阮一峰英文博客里有看到有所提及..于是我打算翻译这篇poem，实为拙劣。
-<<<<<<< HEAD
-=======
+
 
 Desiderata是拉丁语，英语涵义则是Desired things。
 

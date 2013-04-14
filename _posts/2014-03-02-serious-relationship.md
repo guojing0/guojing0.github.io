@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [译]Why Developing Serious Relationship in Your 20s Matters
+title: Why Developing Serious Relationship in Your 20s Matters
 ---
 
 你是20多岁吗？你是一个企业家不？你朋友，导师或者专业上的伙伴告诉过你没：现在是“建立”你自己生活的时候，别考虑定居或者要孩子的事情——尤其当你还是一个女企业家？

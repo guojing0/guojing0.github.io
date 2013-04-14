@@ -1,4 +1,4 @@
 guojing0.github.io
 ==================
 
-For my blog.
+For my blog. I will often update it.

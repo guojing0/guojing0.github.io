@@ -40,6 +40,10 @@ a {
     text-decoration: none;
 }
 
+a:visited {
+    color: #1874CD;
+}
+
 a:hover {
     background-color: LightGrey;
 }

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Love, The Leanest Startup
+title: [译]Love, The Leanest Startup
 --- 
 
 因为今天是情人节，而很多科技宅(tech people)都是单身的。所以我想要谈一下爱情，如果你是已婚人士或者准备看一篇和科技有关的文章，就别往下看了。

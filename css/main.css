@@ -38,6 +38,7 @@ H3 {
 
 a {
     text-decoration: none;
+    padding: 3px;
 }
 
 a:visited {
@@ -49,7 +50,13 @@ a:hover {
 }
 
 code {
-    color: #32CD32;
-    background-color: #000000;
+    color: #000000;
+    background-color: Ivory;
     font-size: 90%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

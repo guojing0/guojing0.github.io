@@ -10,3 +10,5 @@ I am a coding learner and a blogger.
 In spare time, I enjoy reading books, writing blogs and codes, learning Latin, watching movies and go out with my friends.
 
 contact me: <rush.guo@gmail.com>
+
+Follow me on <a href="http://weibo.com/gj1030">Weibo</a>

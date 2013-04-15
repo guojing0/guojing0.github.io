@@ -41,7 +41,7 @@ a {
 }
 
 a:visited {
-    color: #1874CD;
+    color: #5D478B;
 }
 
 a:hover {
@@ -49,5 +49,7 @@ a:hover {
 }
 
 code {
+    color: #32CD32;
+    background-color: #000000;
     font-size: 90%;
 }

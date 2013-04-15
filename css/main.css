@@ -38,7 +38,7 @@ H3 {
 
 a {
     text-decoration: none;
-    padding: 3px
+    padding: 3px;
     margin-bottom: 7px;
 }
 
@@ -55,8 +55,9 @@ pre {
     background-color: Ivory;
     padding: 5px;
     line-height: 120%;
-    border: solid 1px #BEBEBE
+    border: solid 1px #BEBEBE;
     margin-left: 10px;
+    width: 95%;
 }
 
 code {

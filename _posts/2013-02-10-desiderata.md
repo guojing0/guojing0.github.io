@@ -1,3 +1,8 @@
+---
+layout: default
+title: 译 Desiderata
+---
+
 平静地在喧嚣和匆忙中行走，铭记沉默中有着安宁，尽可能不要像他人一样屈服于良好的条件。静静地说清你的真相；聆听他人，即便无知与迟钝，他们也同样拥有自己的故事。
 
 避开高亢和借故生端的人们，他们的精神无理取闹。倘若你将自己与他人对比，或许你会痛苦，亦或是自负。永远有人比你更为伟大或渺小。
@@ -14,4 +19,4 @@
 
 为幸福奋斗！
 
-By Max Ehrmann, Desiderata (Latin: desired things)
+By Max Ehrmann, Desiderata (Latin: desired things) via Wikipedia

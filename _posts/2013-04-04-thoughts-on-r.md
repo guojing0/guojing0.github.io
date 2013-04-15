@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thoughts on R
+title: 对RR所想
 ---
 
 以 R 为开头的单词有很多，Rose, Relationship, Return, Rabbit, Rape, et cetera.当然，倘若你看过 Friends 的话，你也许还会知道Ross和Rachel.

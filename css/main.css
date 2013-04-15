@@ -36,9 +36,12 @@ H3 {
     color: DarkBlue;
 }
 
+li {
+    margin-bottom: 10px;
+}
+
 a {
     text-decoration: none;
-    margin-bottom: 5px;
 }
 
 a:visited {

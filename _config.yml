@@ -1,1 +1,2 @@
-baseurl: /
+root: /
+permalink: /:year/:month/:day/:title

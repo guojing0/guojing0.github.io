@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: forindex
 title: About Me
 ---
 

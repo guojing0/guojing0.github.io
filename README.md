@@ -1,4 +1,4 @@
 guojing0.github.io
 ==================
 
-For my blog. I will often update it.
+Here is my Chinese blog: http://www.funnyguo.me/

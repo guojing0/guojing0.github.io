@@ -21,12 +21,9 @@ Consistency, consistency, consistency.
 
 Sleeping in the right atmosphere is crucial to getting a good night's sleep.
 
-
 + **Keep it quiet.** Your brain doesn't turn off when you go to sleep. We are still sensitive to noise when we sleep and any sounds can awaken us (even if you don't remember it in the morning) throwing off our sleep cycles.
 
 + **Possibly the best thing I've done for my sleep is wear earbuds.**
-
-  There is nothing that compares to sleeping in absolute silence. Don't get crappy earbuds either, check out Mack's Earbuds.
 
 + **Keeping your room cool and drinking cold water** right before bed is a great way to stimulate more deep sleep.
 
@@ -40,21 +37,10 @@ It's crucial to learn to relax right before bed. We are constantly in two differ
 
 **Parasympathetic**: The state of rest and digest. While in this state your blood pressure and heart rate go down. 
 
-Your digestion increases, and you are in a state of relaxation.
-
-This is the opposite of the Sympathetic which is a state of "readyness.”
-
 **Learn to relax.** Create a before bed routine, dim the lights and read a book get your body used to "relaxing". 
-
-Yoga is amazing at getting you in the state of 
-relaxation. Ambient sounds and white noise are also great alternatives.
 
 **4.Track It.**
 
 Just like putting on muscle, losing weight, becoming faster or stronger, **you need to track your progress.**
-
-Chances are you don't have the slightest idea of how well you sleep. You need to track it to get a picture of what you're working with and then use those measurements to calculate progress.
-
-Initially when I started I tracked my sleep nightly. I've now gotten to the point where I track it for one full week once a month as a "checkpoint" to see how I'm doing. If my sleep is bad, then I work to fix it tracking it along the way.
 
 via: <https://medium.com/the-healthy-life/b65f8e19ed18>

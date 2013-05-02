@@ -7,8 +7,8 @@ title: About Me
 
 I am a coding learner, I've been a blogger since 2009. BTW, I want to be a *Jedi*.
 
-In spare time, I enjoy reading books, writing blogs and codes, learning Latin, watching movies and go out with my friends.
+In spare time, I enjoy reading books, writing blogs and codes, learning Latin, watching movies and traveling.
 
 contact me: <rush.guo@gmail.com>
 
-Follow me on <a href="http://weibo.com/gj1030">Weibo</a>
+I'd like to meet you on <a href="http://weibo.com/gj1030">Weibo</a>

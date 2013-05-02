@@ -11,4 +11,4 @@ In spare time, I enjoy reading books, writing blogs and codes, learning Latin, w
 
 contact me: <rush.guo@gmail.com>
 
-I'd like to meet you on <a href="http://weibo.com/gj1030">Weibo</a>
+I'd love to meet you on <a href="http://weibo.com/gj1030">Weibo</a>

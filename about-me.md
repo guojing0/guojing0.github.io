@@ -5,9 +5,9 @@ title: About Me
 
 **Guo Jing** is the one who posts the blog, id est sum. Guo was born in 1995.
 
-I am a coding learner, I've been a blogger since 2009. BTW, I want to be a *Jedi*.
+I am a coding learner, and I love taking photos. I've been a blogger since 2009. BTW, I want to be a *Jedi*.
 
-In spare time, I enjoy reading books, writing blogs and codes, learning Latin, watching movies and traveling.
+In spare time, I enjoy reading books, writing blogs and codes, learning Latin, taking photos and traveling.
 
 contact me: <rush.guo@gmail.com>
 

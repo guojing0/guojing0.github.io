@@ -1,5 +1,6 @@
-source: .
+baseurl: /
 permalink: /:year/:month/:day/:title
 markdown: rdiscount
 pygments: true
 data_format: "ordinal"
+lsi: true

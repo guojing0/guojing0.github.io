@@ -9,6 +9,8 @@ I am a coding learner, and I love taking photos. I've been a blogger since 2009.
 
 In spare time, I enjoy reading books, writing blogs and codes, learning Latin, taking photos and traveling.
 
+And I'm learning Crypto, CS and so on. You can find me <a href="https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b">here</a> on Coursera.
+
 contact me: <rush.guo@gmail.com>
 
 I'd love to meet you on <a href="http://weibo.com/gj1030">Weibo</a>

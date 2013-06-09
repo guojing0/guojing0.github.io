@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TOEFL Visiting Museums
+title: [TOEFL] Visiting Museums
 ---
 
 > Many people visit museums when they travel to new places.

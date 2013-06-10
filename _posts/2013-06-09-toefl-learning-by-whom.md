@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TOEFL Learning by thyself or with a teacher
+title: TOEFL Learning by Thyself or with a Teacher
 ---
 
 > Some people think that they can learn better by themselves than with a teacher. Others think that it is always better to have a teacher.

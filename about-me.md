@@ -13,4 +13,4 @@ And I'm learning Crypto, CS and so on. You can find me <a href="https://www.cour
 
 contact me: <rush.guo@gmail.com>
 
-I'd love to meet you on <a href="https://twitter.com/guojingtw">Twitter</a> <a href="http://weibo.com/gj1030">Weibo</a>
+I would like to meet you on <a href="https://twitter.com/guojingtw">Twitter</a> and <a href="http://weibo.com/gj1030">Weibo</a>

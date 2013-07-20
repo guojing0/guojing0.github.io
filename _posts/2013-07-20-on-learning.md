@@ -12,3 +12,7 @@ Somehow those things forced me to introspect into my own mind - The main goal of
 I always aspire to create and not be formalist, which means I may not adapt such a life style at first. But whatever, I have to and am going to take the challenge, inevitably something I should do could lead to a more effective life and being proactive.
 
 And I hope I can have fun in the road and be healthy as well. Some tips I learned were from Philip Guo's Blog, I've been reading his blog and *The Ph.D. Grind* since yesterday.
+
+Plus I think I'm going to write something else. I bought Ellen's *Seriously ... I'm Kidding* yesterday on Amazon, it cost much money - for buying books in China. Reading is enjoyable and relaxing to me, so I look forward to a funny journey while reading the book.
+
+**Never forget to have fun, ever.**

@@ -222,9 +222,9 @@ textarea {
 }
 
 body {
-  margin: 0;
+  margin: auto;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 20px;
   color: #333333;
   background-color: #ffffff;
@@ -721,7 +721,7 @@ h4,
 h5,
 h6 {
   margin: 10px 0;
-  font-family: inherit;
+  font-family: Helvetica;
   font-weight: bold;
   line-height: 20px;
   color: inherit;
@@ -806,6 +806,7 @@ ol ul {
 
 li {
   line-height: 20px;
+  margin-bottom: 10px;
 }
 
 ul.unstyled,
@@ -894,7 +895,7 @@ abbr.initialism {
 blockquote {
   padding: 0 0 0 15px;
   margin: 0 0 20px;
-  border-left: 5px solid #eeeeee;
+  border-left: 5px solid lightblue;
 }
 
 blockquote p {

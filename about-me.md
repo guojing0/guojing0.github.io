@@ -1,5 +1,5 @@
 ---
-layout: forindex
+layout: test
 title: About Me
 ---
 

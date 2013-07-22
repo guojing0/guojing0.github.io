@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: modern
 title: 译 Love, The Leanest Startup
 --- 
 

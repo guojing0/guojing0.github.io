@@ -648,7 +648,8 @@ a:hover {
 }
 
 p {
-  margin: 0 0 10px;
+  font-family: Helvetica;
+  font-size: 15px;
 }
 
 .lead {

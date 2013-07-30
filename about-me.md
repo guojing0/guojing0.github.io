@@ -12,5 +12,3 @@ In spare time, I enjoy reading books, writing blogs and codes, learning Latin, t
 And I'm learning Crypto, CS and so on. You can find me <a href="https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b">here</a> on Coursera.
 
 contact me: <rush.guo@gmail.com>
-
-I would like to meet you on <a href="https://twitter.com/guojingtw">Twitter</a> and <a href="http://weibo.com/gj1030">Weibo</a>

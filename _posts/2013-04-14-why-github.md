@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: 为什么转战 Github ?
 ---
 

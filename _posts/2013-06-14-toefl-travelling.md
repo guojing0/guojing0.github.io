@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: TOEFL traveling alone or with others?
 ---
 

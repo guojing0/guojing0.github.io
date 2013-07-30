@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: 影响力的动与静
 ---
 

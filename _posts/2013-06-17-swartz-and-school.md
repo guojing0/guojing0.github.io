@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern 
 title: Aaron Swartz 与学校
 ---
 

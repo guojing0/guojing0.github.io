@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: 译 Why Developing Serious Relationship in Your 20s Matters
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: Apps 与你的女友
 ---
 

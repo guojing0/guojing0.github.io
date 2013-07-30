@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: 自己的进步与朋友
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: TOEFL Teens Have jobs While at School
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: 提高睡眠质量的四件事
 ---
 

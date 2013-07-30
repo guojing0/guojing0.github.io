@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: 阿西莫夫之后
 ---
 

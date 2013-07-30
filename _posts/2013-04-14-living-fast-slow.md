@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: 生活 快与慢
 ---
 

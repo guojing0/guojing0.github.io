@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: 问题 时间 答案
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: 谈生活中的 Debug
 ---
 

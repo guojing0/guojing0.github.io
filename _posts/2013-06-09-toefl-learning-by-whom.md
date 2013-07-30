@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: TOEFL Learning by Thyself or with a Teacher
 ---
 

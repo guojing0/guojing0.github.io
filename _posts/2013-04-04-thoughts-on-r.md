@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: modern
 title: 对RR所想
 ---
 

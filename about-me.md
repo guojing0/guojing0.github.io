@@ -1,5 +1,5 @@
 ---
-layout: modern
+layout: forindex
 title: About Me
 ---
 

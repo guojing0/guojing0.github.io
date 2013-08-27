@@ -3,12 +3,13 @@ layout: forindex
 title: About Me
 ---
 
-**Guo Jing** is the one who posts the blog, id est sum. Guo was born in 1995.
+**Guo Jing** is the one posting this blog, id est sum. I was born in 1995.
 
-I am a coding learner, and I love taking photos. I've been a blogger since 2009. BTW, I want to be a *Jedi*.
+What you are seeing is the site created by me. Also coding is one of my hobbies. And I've been a blogger since 2009. BTW, I want to be a *Jedi*, but I have to say now I'm enjoying *Star Trek* more.
 
-In spare time, I enjoy reading books, writing blogs and codes, learning Latin, taking photos and traveling.
+When in spare time, I often read books, write blogs and codes. Traveling, taking photos are two other things I'd like to do.
 
-And I'm learning Crypto, CS and so on. You can find me <a href="https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b">here</a> on Coursera.
+I've been studying Virology, Probability and Writing on <a href="https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b">Coursera</a>.
+
 
 contact me: <rush.guo@gmail.com>

@@ -12,4 +12,4 @@ When in spare time, I often read books, write blogs and codes. Traveling, taking
 I've been studying Virology, Probability and Writing on <a href="https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b">Coursera</a>.
 
 
-contact me: <rush.guo@gmail.com>
+contact me: <dev.guoj@gmail.com>

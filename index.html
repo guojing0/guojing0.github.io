@@ -17,7 +17,7 @@ var img_url = function(){return img_path + img_current_no() + '.jpg';};
 
 var img_current_image = img_url();
 
-var img_gererator = function(){document.getElementById('img_holder').innerHTML='<a href="javascript:void(0)" onclick="img_generator();" style="position:relative;"><img src="'+img_current_image+'" style="border:none;" /><span style="background-image: url('+(img_current_image=img_url())+');width: 0px;height: 0px;display: inline;"></span></a>';};
+var img_generator = function(){document.getElementById('img_holder').innerHTML='<a href="javascript:void(0)" onclick="img_generator();" style="position:relative;"><img src="'+img_current_image+'" style="border:none;" /><span style="background-image: url('+(img_current_image=img_url())+');width: 0px;height: 0px;display: inline;"></span></a>';};
 
 img_generator();
 

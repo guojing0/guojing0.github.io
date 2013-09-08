@@ -3,6 +3,25 @@ layout: forindex
 title: Guo's Raw and Fresh Mind
 ---
 
+<p id="img_holder" style="margin-bottom:1em;"></p>
+
+<script type="text/javascript">
+
+var img_path = '/back_pic/';
+
+var img_num = 50;
+
+var img_current_no = function(){return Math.floor(Math.random()*img_num+1);};
+
+var img_url = function(){return img_path + img_current_no() + '.jpg';};
+
+var img_current_image = img_url();
+
+var img_gererator = function(){document.getElementById('img_holder').innerHTML='<a href="javascript:void(0)" onclick="img_generator();" style="position:relative;"><img src="'+img_current_image+'" style="border:none;" /><span style="background-image: url('+(img_current_image=img_url())+');width: 0px;height: 0px;display: inline;"></span></a>';};}
+
+img_generator();
+
+</script>
 <img src="https://farm8.staticflickr.com/7311/9374730937_3590dccb66.jpg">
 
 <blockquote><h4>To boldly go where no man has gone before.</h4>

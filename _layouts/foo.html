@@ -7,12 +7,17 @@
   	<style type="text/css">
 
       body {
-        margin: 0;
+        margin: 20px;
         padding: 0;
+        max-width: 800px;
       }
 
       header {
         text-align: center;
+      }
+
+      h2 {
+        border-bottom: 1px solid #CCCCCC;
       }
 
       .left {
@@ -26,12 +31,13 @@
       }
 
       div #container {
-        max-width: 1000px;
+        max-width: 80%;
       }
 
       div #menu
       table td {
         text-align: center;
+        margin-bottom: 20px;
       }
      
   	</style>
@@ -58,9 +64,16 @@
       </div>
 
       <section>
-        <div class="left">{{content}}</div>
+        <div class="left">
+          <h2>{{ page.title }}</h2>
+          {{ content }}
+        </div>
 
-        <div class="right">What a pity, nothing is here.</div>
+        <div class="right">
+          <h2>Hey you!</h2>
+          <div class="bio">
+            <p>I'm <strong>Jing Guo</strong> and you are visiting my blog.</p>
+        </div>
       </section>
 
     </div>

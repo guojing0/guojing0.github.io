@@ -1,5 +1,5 @@
 ---
-layout: foo
+layout: modern
 title: A Love Story written in London
 ---
 

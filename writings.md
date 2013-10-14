@@ -1,5 +1,5 @@
 ---
-layout: forindex
+layout: modern
 title: Writings
 ---
 

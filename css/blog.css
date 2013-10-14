@@ -1,0 +1,56 @@
+body {
+  margin: 20px;
+  padding: 0;
+  max-width: 800px;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-family: Georgia, serif;
+}
+
+h2 {
+  border-bottom: 1px solid #CCCCCC;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  line-height: 125%;
+  font-family: Helvetica;
+  font-size: 16px;
+}
+
+.left {
+  float: left;
+  width: 60%;
+}
+
+.right {
+  float: right;
+  width: 30%;
+}
+
+div #container {
+  max-width: 80%;
+}
+
+div #menu
+table td {
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: Helvetica, sans-serif;
+}
+
+a, a:visited {
+  color: #3D477B;
+}
+
+img {
+  width: 100%;
+}

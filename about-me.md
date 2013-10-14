@@ -1,15 +1,12 @@
 ---
 layout: modern
-title: About Me
+title: Hi, glad to meet you!
 ---
 
-**Guo Jing** is the one posting this blog, id est sum. I was born in 1995.
+I am **Jing Guo**. I am a music lover, developer and fan of running.
 
-What you are seeing is the site created by me. Also coding is one of my hobbies. And I've been a blogger since 2009. BTW, I want to be a *Jedi*, but I have to say now I'm enjoying *Star Trek* more.
+I love writing blogs/essays and coding, am also fascinated by history, psychology, Human behavior, technology and MOOC. You can meet me on <a href="https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b">Coursera</a> and <a href="https://www.khanacademy.org/profile/guojing/">Khan Academy</a>.
 
-When in spare time, I often read books, write blogs and codes. Traveling, taking photos are two other things I'd like to do.
+In spare time, I often read books, write posts and learn. Traveling, photography are two hobbies I have.
 
-I've been studying Virology, Probability and Writing on <a href="https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b">Coursera</a>, and also on <a href="https://www.khanacademy.org/profile/guojing/">Khan Academy</a>.
-
-
-contact me: <dev.guoj@gmail.com>
+I have been a bloger since 2009.

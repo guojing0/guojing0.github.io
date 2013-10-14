@@ -2,6 +2,7 @@ body {
   margin: 20px;
   padding: 0;
   max-width: 800px;
+  line-height: 125%;
 }
 
 header {
@@ -21,7 +22,6 @@ a {
 }
 
 p {
-  line-height: 125%;
   font-family: Helvetica;
   font-size: 16px;
 }

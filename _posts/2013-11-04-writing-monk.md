@@ -7,7 +7,7 @@ We shall consider quite a deep question - do you ever need a girlfriend or boyfr
 
 Some weeks ago people on the Internet argued whether English should be omitted from Higher Education Entrance Examination or kept as it was. The answer is NO, obviously, students tend to prepare for a mindless test rather than one that requires you to bring up an insightful idea and develop it gradually. The only thing they have to do is memorize words, phrases, so-called golden sentences and omnipotent formalist templates for "essays". Teachers praise students who use big words - "notwithstanding", score! "despite", what are you? A little baby from a kindergarten?
 
-Let us summarize the key of a very successful and fantastic writing section of Chinese-make-and-score English tests - various use of big fancy words, long and complex sentences, appropriate and non-repeat conjunctions, and most important, NEVER OVERFLOW THE VOLUME OF WORDS, OR LESS POINTS WILL BE SCORED - despite you developing the idea effectively.
+Let us summarize the key of a very successful and fantastic writing section of Chinese-make-and-score English tests - various use of big fancy words, long and complex sentences, appropriate and non-repeat conjunctions, and most important, NEVER OVERFLOW THE VOLUME OF WORDS, OR LESS POINTS WILL BE SCORED - despite your developing the idea effectively.
 
 So take a look at a precise example:
 

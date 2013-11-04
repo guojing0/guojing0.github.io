@@ -21,6 +21,8 @@ Now move on, just peek at the poor, plainer version of what I wrote before:
 
 Fewer words and conjunctions and clauses, how could you expect it to receive a high point?
 
-Of the two, it shall be clear, however, students learning English language in China pursue writing like the former one. English teachers always ask us to write as many as we can - even sometimes we have nothing to express any more - therefore the unnecessary and copious style is needed. But ideas speak louder than words, neat and plain essays usually deliver an idea more effectively and clearly.
+Of the two, it shall be clear, however, students learning English language in China pursue writing like the former one. English teachers always ask us to write as many as we can - even sometimes we have nothing to express at all - therefore the unnecessary and copious style is needed. But ideas speak louder than words, neat and plain essays usually deliver an idea more effectively and clearly.
 
 Trace back to the very first question - should English be omitted from Higher Education Entrance Examination or kept as it was - we do not have to leave it in our memory but change the method we learn English, or generally, languages.
+
+I did learn a lot of writing and composition by reading *The Elements of Style* and *How to Speak and Write Correctly*. These two help you build strong writing fundamentals - even you are not going to be a writer.

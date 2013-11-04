@@ -23,4 +23,4 @@ Fewer words and conjunctions and clauses, how could you expect it to receive a h
 
 Of the two, it shall be clear, however, students learning English language in China pursue writing like the former one. English teachers always ask us to write as many as we can - even sometimes we have nothing to express any more - therefore the unnecessary and copious style is needed. But ideas speak louder than words, neat and plain essays usually deliver an idea more effectively and clearly.
 
-Trace back to the very first question - should English be omitted from Higher Education Entrance Examination or kept as it was - we do not have to leave it in our memory but change the method we learn English, generally, languages.
+Trace back to the very first question - should English be omitted from Higher Education Entrance Examination or kept as it was - we do not have to leave it in our memory but change the method we learn English, or generally, languages.

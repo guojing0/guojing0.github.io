@@ -15,7 +15,7 @@ So take a look at a precise example:
 
 Wow, long sentences and clauses, score! Good conjunctions, score! The most important, it meets the limit of words, SCORE! The paragraph gets 100 points, i.e. 100 out of 100!
 
-Now move on, just peek at the pro, plainer version of what I wrote before:
+Now move on, just peek at the poor, plainer version of what I wrote before:
 
 > We know teachers in China forbid students to love during mid- and high- school. They believe that puppy love and adolescence would easily lead students to "love" and invite terrible academic performance. Even worse, breaking up may cause purposely hurt and malicious revenge. Hence no permission to love in schools.
 

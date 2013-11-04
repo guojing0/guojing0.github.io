@@ -11,7 +11,7 @@ Let us summarize the key of a very successful and fantastic writing section of C
 
 So take a look at a precise example:
 
-> As far as we know the fact that puppy love is not allowed in any mid- and high- school campuses. The reason is that adults in the system, e.g. teachers, believe that students are not mature completely and due to adolescence, they may easily fall in love with the one whom s/he has a crush on. What's worse, puppy love invites bad scores on exams. Another another extreme result is that after breaking up they may purposely hurt or get back at each other. So above all, the fact that puppy love should not be allowed is reasonable.
+> As far as we know the fact that puppy love is not allowed in any mid- and high- school campuses. The reason is that adults in the system, e.g. teachers, believe that students are not mature completely and due to adolescence, they may easily fall in love with the one whom s/he has a crush on. What's worse, puppy love invites bad scores on exams. Another extreme result is that after breaking up they may purposely hurt or get back at each other. So above all, the fact that puppy love should not be allowed is reasonable.
 
 Wow, long sentences and clauses, score! Good conjunctions, score! The most important, it meets the limit of words, SCORE! The paragraph gets 100 points, i.e. 100 out of 100!
 

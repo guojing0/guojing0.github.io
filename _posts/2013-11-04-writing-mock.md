@@ -1,6 +1,6 @@
 ---
 layout: modern
-title: 从满分英语作文到零分
+title: Master and Dummy, on Writing
 ---
 
 We shall consider quite a deep question - do you ever need a girlfriend or boyfriend?

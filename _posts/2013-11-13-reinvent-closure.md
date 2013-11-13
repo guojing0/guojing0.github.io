@@ -19,19 +19,19 @@ title: 如何“重新发明”闭包
     
 既然可以使用乘法，那我们或许可以使用其它函数，如 set!
 
-    (set! x 0)                         ;先将x设置为0
-    ((lambda (i) (set! x (+ x i))) 2)  ;将2累加到x上
+    (set! x 0)                         ; 先将x设置为0
+    ((lambda (i) (set! x (+ x i))) 2)  ; 将2累加到x上
     ;; => x: 2
     ((lambda (i) (set! x (+ x i))) 3)
-    ;; => x: 5                         ;因为x已经等于2，所以累加3到x得到5
+    ;; => x: 5                         ; 因为x已经等于2，所以累加3到x得到5
     
 这样使用“累加器”不方便，如果把它做成一个函数会呢？
 
     (define acc
       (lambda (x)
         (lambda (i)
-          (set! x (+ x i))             ;累加i到x上
-          x)))                         ;返回x的值
+          (set! x (+ x i))             ; 累加i到x上
+          x)))                         ; 返回x的值
           
     (set! foo (acc 5))
     (foo 2) ;is equivalent to ((acc 5) 2)

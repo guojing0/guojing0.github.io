@@ -22,6 +22,14 @@ a {
   text-decoration: none;
 }
 
+a, a:visited {
+  color: #3D477B;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 p {
   font-family: Times New Roman, Helvetica;
   font-size: 17px;
@@ -48,12 +56,9 @@ table td {
   font-family: Helvetica, sans-serif;
 }
 
-a, a:visited {
-  color: #3D477B;
-}
-
-a:hover {
-  text-decoration: underline;
+code {
+  font-family: Monaco;
+  font-size: 80%;
 }
 
 img {

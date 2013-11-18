@@ -18,7 +18,7 @@ Projects
 
 I enjoy coding codes and being creative, here are some projects I built:
 
-* I See You(No URL due to privacy) - A website built for celebrating anniversaries with my girlfriend.
+* I See You(Not show URL for privacy) - A website built for celebrating anniversaries with my girlfriend.
 
 * [Word Frequency Counter](https://github.com/guojing0/my_python/blob/master/frequency.py) - Built to calculate the word frequency of texts.
 

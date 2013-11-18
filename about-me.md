@@ -18,7 +18,7 @@ Projects
 
 I enjoy coding codes and being creative, here are some projects I built:
 
-* [I See You](http://iseeyou.funnyguo.me/) - A website built for anniversaries with my girl.
+* [I See You](http://iseeyou.funnyguo.me/) - A website built for celebrating anniversaries with my girlfriend.
 * [Word Frequency Counter](https://github.com/guojing0/my_python/blob/master/frequency.py) - Built for calculating word frequency of any texts.
 * [RSS News](http://rssnews.funnyguo.me/) - A experiment pushing latest news to your RSS reader.
 * [What's My IP](http://whatsmyip.funnyguo.me/) - Showing your current IP address in a simple way.

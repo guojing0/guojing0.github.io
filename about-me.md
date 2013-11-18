@@ -22,5 +22,5 @@ I enjoy coding codes and being creative, here are some projects I built:
 * [Word Frequency Counter](https://github.com/guojing0/my_python/blob/master/frequency.py) - Built to calculate the word frequency of texts.
 * [RSS News](http://rssnews.funnyguo.me/) - A experiment pushing latest news to your RSS reader.
 * [What's My IP](http://whatsmyip.funnyguo.me/) - Showing your current IP address in a simple way.
-* [Poor To-do](https://github.com/guojing0/common-lisp/blob/master/todo.lisp) - With Common Lisp writing a to-do program.
+* [Poor To-do](https://github.com/guojing0/common-lisp/blob/master/todo.lisp) - A to-do program in Common Lisp
 

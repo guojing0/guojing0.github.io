@@ -1,6 +1,6 @@
 ---
 layout: modern
-title: Hi, glad to meet you!
+title: My "Resume"
 ---
 
 I am **Jing Guo**. I am a music lover, developer and fan of long-distance running, occasionally. I am happy to be an adult.
@@ -8,8 +8,6 @@ I am **Jing Guo**. I am a music lover, developer and fan of long-distance runnin
 I love writing blogs/essays and coding, and I am also fascinated by history, psychology, human behavior, technology and MOOC. You can meet me on [Coursera](https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b) and [Khan Academy](https://www.khanacademy.org/profile/guojing/).
 
 In spare time, I often read books, write posts and try new things. Traveling, photography are another two hobbies.
-
-I am a Wikipedian, you can visit my [Wikipedia page](http://zh.wikipedia.org/wiki/User:Guojkiwi).
 
 I have been a blogger since 2009.
 
@@ -26,4 +24,9 @@ I enjoy coding codes and being creative, here are some projects I built:
 
 * [What's My IP](http://whatsmyip.funnyguo.me/) - Telling your current IP address in the simplest way.
 
-* [Poor To-do](https://github.com/guojing0/common-lisp/blob/master/todo.lisp) - A to-do program written in Common Lisp
+* [Poor To-do](https://github.com/guojing0/common-lisp/blob/master/todo.lisp) - A to-do program written in Common Lisp.
+
+Organizations
+=====
+
+* Wikipedia [volunteer](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.

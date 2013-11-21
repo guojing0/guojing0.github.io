@@ -6,7 +6,7 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Jing's Mind</title>
 	<link href="http://www.funnyguo.me/" />
-	<link rel="self" type="application/atom+xml" href="http://www.funnyguo.me/atom.xml" />
+	<link rel="self" type="application/atom+xml" href="/atom.xml" />
 	<id>http://www.funnyguo.me/</id>
 
 	<author>

@@ -3,11 +3,11 @@ layout: for-index
 title: My "Resume"
 ---
 
-I am **Jing Guo**. I am a music lover, developer and long-distance running fan, occasionally. I am happy to be an adult.
+I am **Jing Guo**, a music lover, developer and long-distance running fan, occasionally. I am happy to be an adult.
 
 I love writing blogs/essays and coding, and I am also fascinated by history, psychology, human behavior, technology and MOOC. You can meet me on [Coursera](https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b) and [Khan Academy](https://www.khanacademy.org/profile/guojing/).
 
-In spare time, I often read books, write posts and try new things. Traveling, photography are another two hobbies.
+In spare time, I often read books, write posts and learn new knowledge. I also love traveling and photography.
 
 I have been a blogger since 2009.
 

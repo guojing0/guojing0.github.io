@@ -47,6 +47,7 @@ p {
 
 .rightFixed {
   position: fixed;
+  width: 30%;
 }
 
 div #container {

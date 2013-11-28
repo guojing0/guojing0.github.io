@@ -22,7 +22,7 @@ I enjoy coding codes and being creative, here are some projects I built:
 
 * [RSS News](http://rssnews.funnyguo.me/) - A experiment pushing latest news to your RSS reader.
 
-* [What's My IP](http://whatsmyip.funnyguo.me/) - Telling your current IP address in the simplest way.
+* [What's My IP](http://whatsmyip.funnyguo.me/) - Tell your current IP address in the simplest way.
 
 * [Poor To-do](https://github.com/guojing0/common-lisp/blob/master/todo.lisp) - A to-do program written in Common Lisp.
 

@@ -45,6 +45,10 @@ p {
   width: 30%;
 }
 
+.rightFixed {
+  position: fixed;
+}
+
 div #container {
   max-width: 80%;
 }

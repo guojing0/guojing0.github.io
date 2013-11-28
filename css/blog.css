@@ -1,7 +1,6 @@
 body {
   margin: 20px;
   padding: 0;
-  max-width: 800px;
   line-height: 125%;
 }
 
@@ -46,7 +45,7 @@ p {
 }
 
 div #container {
-  max-width: 80%;
+  max-width: 800px;
 }
 
 div #menu

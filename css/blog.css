@@ -44,11 +44,11 @@ p {
   width: 30%;
 }
 
-div #container {
+#container {
   max-width: 800px;
 }
 
-div #menu
+#menu
 table td {
   text-align: center;
   margin-bottom: 20px;

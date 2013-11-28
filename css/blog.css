@@ -62,8 +62,12 @@ code {
 
 
 #gotop {
-  height: 50px;
-  width: 50px;
-  position: fixed; top: 10px; right: 10px;
-  background-color: #000000;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 0 25px 50px 25px;
+  border-color: transparent transparent #000000 transparent;
 }

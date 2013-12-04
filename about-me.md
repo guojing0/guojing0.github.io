@@ -3,7 +3,7 @@ layout: for-index
 title: My "Resume"
 ---
 
-I am **Jing Guo**, a classical music lover, developer and long-distance runner, occasionally. I am happy to be an adult on my birthday.
+I am **Jing Guo**, a classical music lover, developer and long-distance runner, occasionally. I am happy to be an adult after my 18th birthday.
 
 I love writing blogs/essays and coding, and I am also fascinated by history, psychology, human behavior, finance, technology and MOOC. You can meet me on [Coursera](https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b) and [Khan Academy](https://www.khanacademy.org/profile/guojing/).
 
@@ -29,4 +29,4 @@ I enjoy coding codes and being creative, here are some projects I built:
 Organizations
 =====
 
-* Wikipedia [volunteer](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.
+* Wikipedia [contributor](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.

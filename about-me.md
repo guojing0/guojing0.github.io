@@ -3,9 +3,9 @@ layout: for-index
 title: My "Resume"
 ---
 
-I am **Jing Guo**, a music lover, developer and long-distance running fan, occasionally. I am happy to be an adult.
+I am **Jing Guo**, a classical music lover, developer and long-distance runner, occasionally. I am happy to be an adult on my birthday.
 
-I love writing blogs/essays and coding, and I am also fascinated by history, psychology, human behavior, technology and MOOC. You can meet me on [Coursera](https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b) and [Khan Academy](https://www.khanacademy.org/profile/guojing/).
+I love writing blogs/essays and coding, and I am also fascinated by history, psychology, human behavior, finance, technology and MOOC. You can meet me on [Coursera](https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b) and [Khan Academy](https://www.khanacademy.org/profile/guojing/).
 
 In spare time, I often read books, write posts and learn new knowledge. I also love traveling and photography.
 

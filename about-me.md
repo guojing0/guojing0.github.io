@@ -1,22 +1,22 @@
 ---
 layout: for-index
-title: My "Resume"
+title: My Resume
 ---
 
-I am **Jing Guo**, a classical music lover, developer and long-distance runner, occasionally. I am happy to be an adult after my 18th birthday.
+I am **Jing Guo**, a classical music lover, developer and long-distance runner. I am also an adult.
 
-I love writing blogs/essays and coding, and I am also fascinated by history, psychology, human behavior, finance, technology and MOOC. You can meet me on [Coursera](https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b) and [Khan Academy](https://www.khanacademy.org/profile/guojing/).
+I love blogging, writing essays and programming, and I am also fascinated by history, psychology, human behavior, finance, technology and MOOC. You can meet me on [Coursera](https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b) and [Khan Academy](https://www.khanacademy.org/profile/guojing/).
 
-In spare time, I often read books, write posts and learn new knowledge. I also love traveling and photography.
+I often read books, write blogs and learn new knowledge in my spare time. I also love traveling and photography.
 
 I have been a blogger since 2009.
 
 Projects
 =====
 
-I enjoy coding codes and being creative, here are some projects I built:
+I enjoy writing codes and being creative, here are some projects I built:
 
-* I See You(Not showing URL due to privacy) - A website built for celebrating anniversaries with my girl.
+* I See You (Not showing URL due to privacy) - A website built for celebrating anniversaries with my girl.
 
 * [Word Frequency Counter](https://github.com/guojing0/my_python/blob/master/frequency.py) - Built to calculate the word frequency of texts.
 

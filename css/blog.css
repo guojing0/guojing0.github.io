@@ -69,9 +69,9 @@ img {
 }
 
 time {
-  font-size: 10px;
+  font-size: 11px;
   font-style: italic;
-  color: sliver;
+  color: #C0C0C0;
 }
 
 #tweet {

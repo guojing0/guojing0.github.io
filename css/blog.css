@@ -60,6 +60,11 @@ code {
   font-size: 80%;
 }
 
+img {
+  margin: auto;
+  width: 100%;
+}
+
 #tweet {
   position: fixed;
   top: 10px;

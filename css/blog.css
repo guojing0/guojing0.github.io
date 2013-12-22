@@ -17,6 +17,10 @@ h2 {
   padding-bottom: 5px;
 }
 
+li {
+  list-style-type: none;
+}
+
 a {
   text-decoration: none;
 }

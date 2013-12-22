@@ -68,6 +68,12 @@ img {
   margin: auto;
 }
 
+time {
+  font-size: 10px;
+  font-style: italic;
+  color: sliver;
+}
+
 #tweet {
   position: fixed;
   top: 10px;

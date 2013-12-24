@@ -15,7 +15,7 @@ title: 盖茨的三句话（译文）
 
 高中毕业后的第一年你并不会有六万美元的年薪，或者当上副总裁并开着一辆有电话的车子——除非你把它们都挣到手。
 
-3)Flipping burgers is not beneath your dignity. Your Grandparents had a different word for burger flipping — they called it opportunity.
+3) Flipping burgers is not beneath your dignity. Your Grandparents had a different word for burger flipping — they called it opportunity.
 
 翻牛肉饼并不损害你的尊严。你的祖父母有一个不同的词来形容这件事——他们叫它机会。
 

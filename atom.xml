@@ -24,8 +24,7 @@ layout: nil
         <name>Jing Guo</name>
         <uri>http://www.funnyguo.me/</uri>
     </author>
-    <content type="html">{{ post.title | xml_escape }}</content>
+    <content type="html"><a href="http://www.funnyguo.me{{ post.url }}">{{ post.title | xml_escape }}</a></content>
   </entry>
   {% endfor %}
- 
 </feed>

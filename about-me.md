@@ -16,6 +16,8 @@ Projects
 
 I enjoy writing codes and being creative, here are some projects I built:
 
+* [自学笔记](http://notes.funnyguo.me/index.html) - Learn more in shorter time.
+
 * I See You (Not showing URL due to privacy) - A website built for celebrating anniversaries with my girl.
 
 * [Word Frequency Counter](https://github.com/guojing0/my_python/blob/master/frequency.py) - Built to calculate the word frequency of texts.

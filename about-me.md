@@ -33,4 +33,6 @@ I enjoy writing codes and being creative, here are some projects I built:
 Organizations
 =====
 
+* Vice Leader of Chinese Subtitle translation Group of Gamification on Coursera
+
 * Wikipedia [contributor](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.

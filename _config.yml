@@ -1,4 +1,4 @@
-baseurl: http://www.funnyguo.me
+baseurl: http://www.guoj.org
 permalink: /:year:month:day/:title.html
 markdown: rdiscount
 pygments: true

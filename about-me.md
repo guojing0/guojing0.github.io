@@ -16,17 +16,17 @@ Projects
 
 I enjoy writing codes and being creative, here are some projects I built:
 
-* [自学笔记](http://notes.funnyguo.me/index.html) - Learn more in shorter time.
+* [自学笔记](http://notes.guoj.org/) - Learn more in shorter time.
 
 * I See You (Not showing URL due to privacy) - A website built for celebrating anniversaries with my girl.
 
 * [Word Frequency Counter](https://github.com/guojing0/my_python/blob/master/frequency.py) - Built to calculate the word frequency of texts.
 
-* [RSS News](http://rssnews.funnyguo.me/) - A experiment pushing latest news to your RSS reader.
+* [RSS News](http://rssnews.guoj.org/) - A experiment pushing latest news to your RSS reader.
 
 * [Instant Edit!](http://instantedit.github.io/) - Type and input anything!
 
-* [What's My IP](http://whatsmyip.funnyguo.me/) - Tell your current IP address in the simplest way.
+* [What's My IP](http://whatsmyip.guoj.org/) - Tell your current IP address in the simplest way.
 
 * [Poor To-do](https://github.com/guojing0/common-lisp/blob/master/todo.lisp) - A to-do program written in Common Lisp.
 

@@ -7,6 +7,4 @@ title: 致在RSS Reader中阅读我的博客读者
 
 昨天我的网站更换到了新的域名 [guoj.org](http://www.guoj.org/) ，[RSS订阅地址](http://www.guoj.org/atom.xml)也换了（你可以点“RSS订阅地址”重新设置订阅）。
 
-为了让你们看到这篇说明我还在 funnyguo.me 中也加入了 atom.xml 。它指向的依然是我的新域名 [guoj.org](http://www.guoj.org/) 。
-
 最后再一次谢谢你订阅我的博客！

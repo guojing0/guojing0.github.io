@@ -18,6 +18,8 @@ I enjoy writing codes and being creative, here are some projects I built:
 
 * [自学笔记](http://notes.guoj.org/) - Learn more in shorter time.
 
+* [My SICP Answers](https://github.com/guojing0/MySICPAnswers) - My codes on SICP's excerices
+
 * I See You (Not showing URL due to privacy) - A website built for celebrating anniversaries with my girl.
 
 * [Word Frequency Counter](https://github.com/guojing0/my_python/blob/master/frequency.py) - Built to calculate the word frequency of texts.
@@ -34,5 +36,7 @@ Organizations
 =====
 
 * Vice-Leader of Chinese Subtitle translation Group of Gamification on Coursera
+
+* Translator of Chinese Subtitle translation Group of Financial Market on Coursera
 
 * Wikipedia [contributor](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.

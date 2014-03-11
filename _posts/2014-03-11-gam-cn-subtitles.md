@@ -8,3 +8,5 @@ title: Coursera Gamification 中文字幕上线
 经过果壳 Gamification 字幕组长期的努力，在 Coursera 上由 Wharton School 提供的 Gamification 的中文字幕终于上线了（目前有前三个星期的字幕）！
 
 撒花！点以上图片可进入学习～
+
+作为字幕组成员我表示很开心。

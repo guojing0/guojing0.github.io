@@ -42,3 +42,12 @@ Organizations
 * Translator of Chinese Subtitle translation Group of Financial Market on Coursera
 
 * Wikipedia [contributor](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.
+
+MOOC Certificates
+=====
+
+* Machine Learning - 99.3% [certificate](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971489)
+
+* Learn to Program: The Fundamentals - 86.4% [certificate](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=970455)
+
+* Crafting an Effective Writer: Tools of the Trade - 92.3% [certificate](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972049)

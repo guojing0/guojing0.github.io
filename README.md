@@ -1,4 +1,4 @@
-guojing0.github.io
+Guoj.org
 ==================
 
-Here is my Chinese blog: http://www.guoj.org/
+### This is my website: http://www.guoj.org/

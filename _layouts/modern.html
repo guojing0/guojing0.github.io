@@ -52,6 +52,13 @@
           <h2>{{ page.title }}</h2>
           {{ content }}
 
+          {% if page.previous.url %}
+          <a class="prev" href="{{page.previous.url}}/" title="Previous Post: {{ page.previous.title }}">{{ page.previous.title }}</a>
+          {% endif %}
+          {% if page.next.url %}
+          <a class="next" href="{{page.next.url}}/" title="Next Post: {{ page.next.title }}">{{ page.next.title }}</a>
+          {% endif %}
+
           <p>Thank you for reading, <a title="Subscrible my blog." href="/atom.xml">subscribe</a> if you enjoy my blog.</p>
         </div>
 
@@ -65,11 +72,11 @@
             <p>Send me <a href="mailto: dev.guoj@gmail.com">dev.guoj@gmail.com</a>.</p>
             <p>Donate now, only $1.99.</p>
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="Y6RGUQ552NHKS">
-<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-<img alt="" border="0" src="https://www.paypalobjects.com/zh_XC/i/scr/pixel.gif" width="1" height="1">
-</form>
+              <input type="hidden" name="cmd" value="_s-xclick">
+              <input type="hidden" name="hosted_button_id" value="Y6RGUQ552NHKS">
+              <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+              <img alt="" border="0" src="https://www.paypalobjects.com/zh_XC/i/scr/pixel.gif" width="1" height="1">
+            </form>
         </div>
       </section>
 

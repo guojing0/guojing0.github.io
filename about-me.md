@@ -30,7 +30,7 @@ I enjoy writing codes and being creative, here are some projects I built:
 
 * [Instant Edit!](http://instantedit.github.io/) - Type and input anything!
 
-* [What's My IP](http://whatsmyip.guoj.org/) - Tell your current IP address in the simplest way.
+* [What's My IP](http://ip.guoj.org/) - Tell your current IP address in the simplest way.
 
 * [To-do in Lisp](https://github.com/guojing0/common-lisp/blob/master/todo.lisp) - A to-do program written in Common Lisp.
 

@@ -53,10 +53,10 @@
           {{ content }}
 
           {% if page.previous.url %}
-          <p><a href="{{ page.previous.url }}" title="Previous Post: {{ page.previous.title }}">Previous Post: {{ page.previous.title }}</a></p>
+          <p>Previous Post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
           {% endif %}
           {% if page.next.url %}
-          <p><a href="{{ page.next.url }}" title="Next Post: {{ page.next.title }}">Next Post: {{ page.next.title }}</a></p>
+          <p>Next Post: <a href="{{ page.next.url }}">{{ page.next.title }}</a></p>
           {% endif %}
 
           <p>Thank you for reading, <a title="Subscrible my blog." href="/atom.xml">subscribe</a> if you enjoy my blog.</p>

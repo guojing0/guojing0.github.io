@@ -22,5 +22,5 @@ title: Writings
       <time datetime="{{post.date | date: "%Y-%m-%d"}}">
        {{ post.date | date: "%B %e, %Y" }}
      </time></li>
-  {% endfor %}
+{% endfor %}
 </ul>

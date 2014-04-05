@@ -82,6 +82,8 @@ time {
 }
 
 #dates {
-  border-bottom: 0;
-  font-family: "Open Sans", Calibri, Candara, Helvetica, sans-serif;
+  line-height: 8px;
+  border-bottom: none;
+  font-size: 24px;
+  font-family: Times New Roman, Helvetica, sans-serif;
 }

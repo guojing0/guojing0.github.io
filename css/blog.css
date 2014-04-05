@@ -82,6 +82,6 @@ time {
 }
 
 #dates {
-  font-size: 26px;
+  border-bottom: 0;
   font-family: "Open Sans", Calibri, Candara, Helvetica, sans-serif;
 }

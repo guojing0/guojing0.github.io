@@ -4,6 +4,7 @@
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <title>{{ page.title }} - Guoj.org</title>
+    <link href="/css/rss.css" type="text/css" rel="stylesheet">
     <link href="/css/blog.css" type="text/css" rel="stylesheet">
     <link href="/css/twitter.css" type="text/css" rel="stylesheet">
     <link rel="shortcut icon" href="/images/guo.png">
@@ -58,7 +59,13 @@
           <p>Next Post: <a href="{{ page.next.url }}">{{ page.next.title }}</a></p>
           {% endif %}
 
-          <p>Thank you for reading, if you enjoy this post, you should <a title="Subscrible my blog." href="/atom.xml">subscribe</a> my blog and follow me on <a href="https://twitter.com/guojingtw">Twitter</a>.</p>
+          <p>Thank you for reading! If you enjoy this post, you should <a title="Subscrible my blog." href="/atom.xml">subscribe
+            <div id="rss_icon_main" class="outside px32 gap">
+            <span class="outer_ring"></span>
+            <span class="middle_ring"></span>
+            <span class="circle"></span>
+            </div>
+          </a> my blog and follow me on <a href="https://twitter.com/guojingtw">Twitter</a>.</p>
         </div>
 
         <div class="right">

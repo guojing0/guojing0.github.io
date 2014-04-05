@@ -38,6 +38,21 @@ p {
   font-size: 14px;
 }
 
+code {
+  font-family: Monaco;
+  font-size: 80%;
+}
+
+img {
+  width: 100%;
+}
+
+time {
+  font-size: 11px;
+  font-style: italic;
+  color: #808080;
+}
+
 .left {
   float: left;
   width: 60%;
@@ -60,24 +75,15 @@ table td {
   font-family: Helvetica, sans-serif;
 }
 
-code {
-  font-family: Monaco;
-  font-size: 80%;
-}
-
-img {
-  width: 100%;
-}
-
-time {
-  font-size: 11px;
-  font-style: italic;
-  color: #808080;
-}
-
 #tweet {
   position: fixed;
   top: 10px;
+  right: 10px;
+}
+
+#rss_icon_main {
+  position: fixed;
+  top: 80px;
   right: 10px;
 }
 

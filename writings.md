@@ -14,7 +14,7 @@ title: Writings
     </ul>
     {% endif %}
 
-<h2 id="dates">{{ month }}{{ year }}</h2>
+<h2 id="dates">{{ month }} {{ year }}</h2>
 
 <ul>
   {% endif %}

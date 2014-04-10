@@ -1,4 +1,3 @@
-Guoj.org
-==================
+# Guoj.org
 
-### This is my website: http://www.guoj.org/
+### It is my own website: `http://www.guoj.org/`

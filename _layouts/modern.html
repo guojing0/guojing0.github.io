@@ -62,14 +62,21 @@
       <section>
         <div class="left">
           <h2>{{ page.title }}</h2>
-          {{ content }}
+          <div class="byline">
+            <span>By <a href="/about-me.html" title="Jing Guo">Jing Guo</a></span>
+            <time datetime="{{post.date | date: "%Y-%m-%d"}}">{{ post.date | date: "%B %e, %Y" }}</time>
+          </div>
 
-          {% if page.previous.url %}
-          <p>Previous Post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
-          {% endif %}
-          {% if page.next.url %}
-          <p>Next Post: <a href="{{ page.next.url }}">{{ page.next.title }}</a></p>
-          {% endif %}
+          <article>
+            {{ content }}
+
+            {% if page.previous.url %}
+            <p>Previous Post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
+            {% endif %}
+            {% if page.next.url %}
+            <p>Next Post: <a href="{{ page.next.url }}">{{ page.next.title }}</a></p>
+            {% endif %}
+          </article>
 
           <p>Thank you for reading, if you enjoy this post, you should <a title="Subscrible my blog." href="/atom.xml">subscribe</a> my blog and follow me on <a href="https://twitter.com/guojingtw">Twitter</a>.</p>
         </div>

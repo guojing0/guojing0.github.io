@@ -1,5 +1,5 @@
 baseurl: http://guoj.org
-permalink: /:year:month:day/:title.html
+permalink: /:title.html
 markdown: rdiscount
 pygments: true
 date_format: "ordinal"

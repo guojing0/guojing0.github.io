@@ -63,6 +63,11 @@ time {
   width: 30%;
 }
 
+.byline {
+  font-size: 12px;
+  text-align: center;
+}
+
 #container {
   max-width: 900px;
   margin: auto;

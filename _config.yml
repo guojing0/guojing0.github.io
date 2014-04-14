@@ -3,3 +3,4 @@ permalink: /:title.html
 markdown: rdiscount
 pygments: true
 date_format: "ordinal"
+lsi: true

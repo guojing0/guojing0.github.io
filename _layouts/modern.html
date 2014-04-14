@@ -80,7 +80,7 @@
             <h4>Related posts</h4>
 
               {% for post in site.related_posts limit:5 %}
-                 <a href="{{ post.url }}" class="related_post">{{ post.title }}</a><br />
+                 &nbsp;&nbsp;<a href="{{ post.url }}" class="related_post">{{ post.title }}</a><br />
               {% endfor %}
           </article>
 

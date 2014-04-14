@@ -17,6 +17,10 @@ h2 {
   padding-bottom: 5px;
 }
 
+h4 {
+  margin: auto;
+}
+
 li {
   list-style-type: none;
 }
@@ -66,6 +70,10 @@ time {
 .byline {
   font-size: 12px;
   text-align: center;
+}
+
+.related_post {
+  font-size: 12px;
 }
 
 #container {

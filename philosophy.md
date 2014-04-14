@@ -1,6 +1,6 @@
 ---
-layout: modern
-title: Philosophy of Design
+layout: for-index
+title: Philosophy of design
 ---
 
 Minimalism, the term demands a designed subject should be reduced to its necessary elements - no more, no less. I love the idea of design, therefore, the design of my blog can be considered as a practice of minimalism.

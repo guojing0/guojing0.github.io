@@ -1,6 +1,10 @@
 ---
 layout: modern
 title: A Love Story written in London
+tags:
+- love
+- story
+- london
 ---
 
 Once upon a time, there was a man called *Mario*, who was in love with *Princess Snow*. There was also a dragon called *Voldemort*.

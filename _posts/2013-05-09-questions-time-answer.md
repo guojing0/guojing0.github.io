@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: 问题 时间 答案
+tags:
+- school
+- life
 ---
 
 > 作业多了，时间少了。

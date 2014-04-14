@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: 提高睡眠质量的四件事
+tags:
+- sleep
+- life
 ---
 
 >Here are the four most powerful areas you should focus on that will help you take control of your sleep.

@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: Apps 与你的女友
+tags:
+- apps
+- love
 ---
 
 以前在网上看过一幅关于浏览器的漫画，不同的浏览器象征不同的女性，譬如 IE 是每一个人的初恋..

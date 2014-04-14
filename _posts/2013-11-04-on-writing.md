@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: Master and Dummy, on Writing
+tags:
+- english
+- writing
 ---
 
 We shall consider quite a deep question - do you ever need a girlfriend or boyfriend?

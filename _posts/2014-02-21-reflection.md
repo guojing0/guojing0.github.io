@@ -1,6 +1,8 @@
 ---
 layout: modern
 title: 对自己的反思
+tags:
+- me
 ---
 
 以下是我对昨天写的[博客](http://www.guoj.org/keep-cool.html)的反思。

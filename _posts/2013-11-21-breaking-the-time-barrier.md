@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: Breaking the Time Barrier 摘录
+tags:
+- startup
+- read
 ---
 
 _Breaking the Time Barrier_ 这本电子书是为那些自由工作者（freelancers）或solo而写的。里面主要介绍了用基于价值(value-based)的定价去取代基于时间的定价。我用了一个多小时读完发现这是一本很好的书，并且是免费的。以下是我的摘录。

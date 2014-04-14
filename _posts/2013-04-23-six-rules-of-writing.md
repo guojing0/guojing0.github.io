@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: 译 Remedy of Six Rules by George Orwell
+tags:
+- read
+- translation
 ---
 
 * Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.

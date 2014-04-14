@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: 拉丁语学习(问答)
+tags:
+- read
+- latin
 ---
 
 来自我在果壳问答的<a href="http://www.guokr.com/post/439337/">提问</a>, 回答者为 <a href="http://www.guokr.com/i/0198315148/">llanfairpwllgwyngyll</a>.

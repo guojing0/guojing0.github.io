@@ -1,6 +1,8 @@
 ---
 layout: modern
 title: 如何“重新发明”闭包
+tags:
+- codes
 ---
 
 我最初是在<a href="http://paulgraham.com/hackpaint.html">《黑客与画家》</a>看到“闭包”这个术语，虽然我那时候还没有明白这个词语的意思，但那时我查阅了它在维基百科上的定义，却依然没有明白。直到现在，因为我在捣鼓 <a href="http://en.wikipedia.org/wiki/Lambda_calculus">Lambda Calculus</a> ，才慢慢懂得“闭包”的含义。

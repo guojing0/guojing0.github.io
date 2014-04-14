@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: Coming from Shanghai and Something Else
+tags:
+- me
+- english
 ---
 
 Having come from Shanghai, I do not feel quite excited but normal. I have been there for times, hence it's not unique and special to me anymore. But I did learn a lot from courses I took there, e.g. what a real writing should be.

@@ -1,6 +1,11 @@
 ---
 layout: modern
 title: Coursera Gamification 中文字幕上线
+tags:
+- translation
+- coursera
+- english
+- learning
 ---
 
 <a href="https://class.coursera.org/gamification-003/lecture"><img src="/images/gam.jpg"></a>

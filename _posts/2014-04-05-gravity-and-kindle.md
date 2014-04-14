@@ -1,6 +1,8 @@
 ---
 layout: modern
 title: 从《地心引力》到 Kindle
+tags:
+- me
 ---
 
 ![Gravity](/images/gravity.jpg)

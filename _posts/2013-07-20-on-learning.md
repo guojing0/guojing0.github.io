@@ -1,6 +1,8 @@
 ---
 layout: modern
 title: On Learning
+tags:
+- learning
 ---
 
 Recently, I realize life is no novel at all. People can't work or live like in a vacuum, in a way they have to live dogmatic lives. No one can escape it - thus it would be tough for people to figure out what the destination and the value are at last.

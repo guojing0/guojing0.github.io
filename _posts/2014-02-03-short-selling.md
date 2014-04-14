@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: 什么是“做空”
+tags:
+- finance
+- learning
 ---
 
 大概是在看 1987 年的华尔街（Wall Street）电影之前，我就不明白做空（short selling）的概念。看了 Wikipedia 的[解释](http://zh.wikipedia.org/wiki/%E7%A9%BA%E5%A4%B4)后也不是很明白，不过看完了 Khan Academy 的视频后清楚了。

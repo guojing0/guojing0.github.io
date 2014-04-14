@@ -1,6 +1,11 @@
 ---
 layout: modern
 title: English Writing Notes
+tags:
+- english
+- writing
+- read
+- learning
 ---
 
 However, to stick to the old familiar, simple name that your grandfather called it. It has stood the test of time, and old friends are alway good friends.

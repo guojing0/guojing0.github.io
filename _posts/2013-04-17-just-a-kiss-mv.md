@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: Just A Kiss 的 MV
+tags:
+- songs
+- love
 ---
 
 <embed src="http://player.youku.com/player.php/sid/XMjgwMDk5MzQ4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>

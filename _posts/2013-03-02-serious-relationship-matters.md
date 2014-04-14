@@ -1,6 +1,10 @@
 ---
 layout: modern
 title: 译 Why Developing Serious Relationship in Your 20s Matters
+tags:
+- love
+- relationship
+- translation
 ---
 
 ![pic](/images/relationship.jpeg)

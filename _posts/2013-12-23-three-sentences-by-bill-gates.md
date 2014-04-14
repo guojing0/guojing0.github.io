@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: 盖茨的三句话（译文）
+tags:
+- translation
+- life
 ---
 
 我一直认为 quotes 是无聊的。因此在杂志或网站上看到这类的内容都会匆匆掠过，不过会把自认为有点意义的先记着。

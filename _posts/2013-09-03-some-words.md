@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: 只是三言两语
+tags:
+- songs
+- me
 ---
 
 五六天前某人让我查一首歌曲，她发我的是

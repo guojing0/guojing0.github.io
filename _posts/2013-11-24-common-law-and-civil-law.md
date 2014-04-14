@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: 判例法与大陆法
+tags:
+- read
+- law
 ---
 
 前几个月上课的时候老师提到过“判例法（Common Law）”和“大陆法（Civil Law）”的区别。即前者是判例法，后者是法典法。

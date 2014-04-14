@@ -1,6 +1,8 @@
 ---
 layout: modern
 title: 八月的最后一天
+tags:
+- me
 ---
 
 对于我而言暑假的存在与否有什么区别？

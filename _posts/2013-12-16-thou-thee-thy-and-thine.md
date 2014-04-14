@@ -1,6 +1,8 @@
 ---
 layout: modern
 title: 译 "Thou", "Thee", "Thy" and "Thine"
+tags:
+- english
 ---
 
 "Thou" = You

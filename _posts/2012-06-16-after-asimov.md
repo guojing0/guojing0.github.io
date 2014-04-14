@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: 阿西莫夫之后
+tags:
+- me
+- read
 ---
 
 今天我的想象力开始从银河系另一边的边缘返回地球。

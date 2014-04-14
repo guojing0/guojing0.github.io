@@ -1,6 +1,8 @@
 ---
 layout: modern
 title: 独自旅行的意义
+tags:
+- me
 ---
 
 <img width="100%" src="/images/hk.jpg">

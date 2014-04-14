@@ -1,6 +1,8 @@
 ---
 layout: modern
 title: On Accents
+tags:
+- english
 ---
 
 Between English accent (Received Pronunciation or Cockney) and American accent, I prefer the former one. Not because I'm affected by Penny and Alex in The Big Bang Theory, which is known as TBBT, and in which Alex says to Leonard, "Ooh, I love English accents".

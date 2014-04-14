@@ -1,6 +1,9 @@
 ---
 layout: modern
 title: 为什么转战 Github ?
+tags:
+- codes
+- github
 ---
 
 我在 Qzone 和 Sina Blog 写了很长时间的博客，我从2009年的暑假开始在 Qzone 上面写博客。因为我的好友可以直接在 Qzone 的“个人更新”看到我日志或者相册的更新。

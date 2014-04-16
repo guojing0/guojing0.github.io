@@ -1,6 +1,6 @@
 ---
 layout: for-index
-title: My Resume
+title: My résumé
 ---
 
 I am **Jing Guo**, a classical music lover, developer and long-distance runner.
@@ -35,7 +35,7 @@ I enjoy writing codes and being creative, here are some projects I built:
 Organizations
 =====
 
-* Vice-Leader of Chinese Subtitle translation Group of Gamification on Coursera
+* Vice-leader of Chinese subtitle translation group of Gamification on Coursera
 
 * Wikipedia [contributor](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.
 

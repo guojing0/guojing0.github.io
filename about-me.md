@@ -46,8 +46,10 @@ Organizations
 MOOC Certificates
 =====
 
-* Machine Learning - 99.3% [certificate](/images/coursera-ml.pdf)
-
 * Learn to Program: The Fundamentals - 86.4% [certificate](/images/coursera-prog.pdf)
 
+* Machine Learning - 99.3% [certificate](/images/coursera-ml.pdf)
+
 * Crafting an Effective Writer: Tools of the Trade - 92.3% [certificate](/images/coursera-writing.pdf)
+
+* Gamification - 85.5% [cerificate](/images/coursera-gamification.pdf)

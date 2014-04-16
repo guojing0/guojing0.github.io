@@ -32,14 +32,10 @@ I enjoy writing codes and being creative, here are some projects I built:
 
 * [What's My IP](http://ip.guoj.org/) - Tell your current IP address in the simplest way.
 
-* [To-do in Lisp](https://github.com/guojing0/common-lisp/blob/master/todo.lisp) - A to-do program written in Common Lisp.
-
 Organizations
 =====
 
 * Vice-Leader of Chinese Subtitle translation Group of Gamification on Coursera
-
-* Translator of Chinese Subtitle translation Group of Financial Market on Coursera
 
 * Wikipedia [contributor](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.
 

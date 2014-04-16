@@ -1,15 +1,13 @@
 ---
 layout: for-index
-title: My résumé
+title: My Résumé
 ---
 
 I am **Jing Guo**, a classical music lover, developer and long-distance runner.
 
-I love blogging, programming, and am fascinated by human history, psychology, human behavior, mathematics, technology and MOOC. You can meet me on [Coursera](https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b) and [Khan Academy](https://www.khanacademy.org/profile/guojing/).
+I love blogging, programming, and am fascinated by human history, psychology, irrational behavior, mathematics, technology and MOOC. You can meet me on [Coursera](https://www.coursera.org/user/i/361951d01125a4915d2bc9815ad17a1b) and [Khan Academy](https://www.khanacademy.org/profile/guojing/).
 
-I often read books, write blogs and learn new knowledges. I also love traveling and photography.
-
-I have been a blogger since 2009.
+I have been a blogger since 2009. I also love travelling and photography.
 
 Projects
 =====

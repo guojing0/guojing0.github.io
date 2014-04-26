@@ -37,6 +37,17 @@ Organizations
 
 * Wikipedia [contributor](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.
 
+Languages
+=====
+
+> Assess based on *The Interagency Language Roundtable scale*
+
+* Mandarin: 5
+
+* English: 4+
+
+* Latin: 0
+
 MOOC Certificates
 =====
 

@@ -40,7 +40,7 @@ Organizations
 Languages
 =====
 
-> Assess based on *The Interagency Language Roundtable scale*
+> Assessing based on *Interagency Language Roundtable scale*
 
 * Mandarin: 5
 

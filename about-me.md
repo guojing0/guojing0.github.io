@@ -37,17 +37,6 @@ Organizations
 
 * Wikipedia [contributor](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.
 
-Languages
-=====
-
-> Assessing based on *Interagency Language Roundtable scale*
-
-* Mandarin: 5
-
-* English: 4+
-
-* Latin: 0
-
 MOOC Certificates
 =====
 
@@ -58,3 +47,5 @@ MOOC Certificates
 * Crafting an Effective Writer: Tools of the Trade - 92.3% [certificate](/images/coursera-writing.pdf)
 
 * Gamification - 85.5% [cerificate](/images/coursera-gamification.pdf)
+
+* A Beginner's Guide to Irrational Behavior - 95.1% [certificate **with distinction**](/images/coursera-irrational.pdf)

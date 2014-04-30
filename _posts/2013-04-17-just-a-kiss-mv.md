@@ -2,7 +2,7 @@
 layout: modern
 title: Just A Kiss 的 MV
 tags:
-- songs
+- music
 - love
 ---
 

@@ -48,4 +48,4 @@ MOOC Certificates
 
 * Gamification - 85.5% [cerificate](/images/coursera-gamification.pdf)
 
-* A Beginner's Guide to Irrational Behavior - 95.1% [certificate **with distinction**](/images/coursera-irrational.pdf)
+* A Beginner's Guide to Irrational Behavior - 95.1% [certificate *with distinction*](/images/coursera-irrational.pdf)

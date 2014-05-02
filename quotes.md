@@ -1,5 +1,5 @@
 ---
-layout: modern
+layout: for-index
 title: Quotes
 ---
 

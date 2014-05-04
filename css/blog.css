@@ -9,11 +9,11 @@ header {
 }
 
 h1 {
-  font-family: Georgia, sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
 h2 {
-  font-family: Georgia, sans-serif;
+  font-family: "Times New Roman", Times, serif;
   border-bottom: 1px solid #CCCCCC;
   padding-bottom: 5px;
 }
@@ -107,5 +107,5 @@ table td {
   line-height: 8px;
   border-bottom: none;
   font-size: 24px;
-  font-family: "Times New Roman", Helvetica, sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }

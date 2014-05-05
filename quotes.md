@@ -5,6 +5,8 @@ title: Quotes
 
 Here are some of my favourite quotes.
 
+> Do or do not, there is no try. -- Yoda
+
 ### On Programming
 
 > Programs must be written for people to read, and only incidentally for machines to execute. -- SICP, Preface to the First Edition

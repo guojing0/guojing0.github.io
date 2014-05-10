@@ -14,19 +14,21 @@ Projects
 
 I enjoy writing codes and being creative, here are some projects I built:
 
+* I See You (Not showing URL due to privacy) - A website built for celebrating anniversaries.
+
 * [自学笔记](http://notes.guoj.org/) - Learn more in shorter time.
-
-* [Terminal-dict](https://github.com/guojing0/terminal-dict/) - Look up words in your terminal.
-
-* [My SICP Answers](https://github.com/guojing0/MySICPAnswers) - My codes on SICP's excerices
-
-* I See You (Not showing URL due to privacy) - A website built for celebrating anniversaries with my girl.
-
-* [Word Frequency Counter](https://github.com/guojing0/my_python/blob/master/frequency.py) - Built to calculate the word frequency of texts.
 
 * [Instant Edit!](http://instantedit.github.io/) - Type and input anything!
 
 * [What's My IP](http://ip.guoj.org/) - Tell your current IP address in the simplest way.
+
+* [My SICP Answers](https://github.com/guojing0/MySICPAnswers) - My answers to SICP's excerices.
+
+* [Terminal-dict](https://github.com/guojing0/terminal-dict/) - Look up words in your terminal.
+
+* [Word Frequency Counter](https://github.com/guojing0/my_python/blob/master/frequency.py) - Built to calculate the word frequency of texts.
+
+* [Game theory](https://github.com/guojing0/game-theory) - Simulate the prisoner's dilemma with different strategies.
 
 Organizations
 =====

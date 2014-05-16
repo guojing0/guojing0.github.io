@@ -6,7 +6,7 @@ tags:
 - me
 ---
 
-两年前我在 Amazon 买过一本名为[免费：商业的未来](http://amzn.to/1lnjTtL)的书，作者认为“免费”作为一种商业模式可以用来占领更多的市场份额或客户。当某项服务或商品是以软件形式存在的时候，那它的[边际成本](http://en.wikipedia.org/wiki/Marginal_cost)就几乎为零了。
+两年前我在 Amazon 买过一本名为《[免费：商业的未来](http://amzn.to/1lnjTtL)》的书，作者认为“免费”作为一种商业模式可以用来占领更多的市场份额或客户。当某项服务或商品是以软件形式存在的时候，那它的[边际成本](http://en.wikipedia.org/wiki/Marginal_cost)就几乎为零了。
 
 然而凭我在 Coursera 的 [A Beginner's Guide to Irrational Behavior](https://www.coursera.org/course/behavioralecon) 课程学到的知识来看，这并不是那么正确。当购买一件商品的成本为零时，人们会更多地考虑获得它的好处而不是投入的成本（毕竟不用投入成本）。当更多的商品有免费的形式的时候，人们就会“自然而然”地想我们有权利免费获得这些东西并且认为“一切有价（Everything has a price）”是恶了。从某种意义上而言这把独立开发者放到了一个不利的境地。
 

@@ -51,3 +51,5 @@ MOOC Certificates
 * A Beginner's Guide to Irrational Behavior - 95.1% [certificate *with distinction*](/images/coursera-irrational.pdf)
 
 * The Data Scientist’s Toolbox - 97.0% [certificate *with distinction*](/images/coursera-databox.pdf)
+
+* The New Nordic Diet - from Gastronomy to Health - 100% [certificate *with distinction*](/images/coursera-nordic.pdf)

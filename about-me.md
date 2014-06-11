@@ -53,3 +53,7 @@ MOOC Certificates
 * The Data Scientist’s Toolbox - 97.0% [certificate *with distinction*](/images/coursera-databox.pdf)
 
 * The New Nordic Diet - from Gastronomy to Health - 100% [certificate *with distinction*](/images/coursera-nordic.pdf)
+
+* Marriage and the Movies: A History - 100% [certificate](/images/coursera-marriage.pdf)
+
+* Warhol - 58% [certificate](/images/coursera-warhol.pdf)

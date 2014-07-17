@@ -56,4 +56,6 @@ MOOC Certificates
 
 * Marriage and the Movies: A History - 100% [certificate](/images/coursera-marriage.pdf)
 
-* Warhol - 58% [certificate](/images/coursera-warhol.pdf)
+* Warhol - 58.0% [certificate](/images/coursera-warhol.pdf)
+
+* Functional Programming Principles in Scala - 60.0% [certificate](/images/coursera-scala.pdf)

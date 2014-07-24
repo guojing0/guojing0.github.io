@@ -1,0 +1,4 @@
+- Visit New Zealand
+- Summit Mt. Fuji
+- Buy The Lord of the Ring
+- Run a (half) marathon

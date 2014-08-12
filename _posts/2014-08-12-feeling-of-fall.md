@@ -18,3 +18,5 @@ title: 秋天的感觉
 不管怎么说秋季很赞，而我写的博客则没之前那么赞了。
 
 在结尾说个不怎么相关的内容。我在 A Brief History of Humankind 的第一周课程中学到，人类所共有的一些“特征”（common denominators），如智慧（intelligent）、复杂（sophisticated）以及异端的不宽容（non-tolerant），并非自古就有的——而是自智人（Homo sapiens）的出现就产生了，之后留在我们的基因中并遗传下来。
+
+R.I.P. to Robin Williams.

@@ -1,9 +1,6 @@
 What do I want?
 
-  * Visit New Zealand
-  * Summit Mt. Fuji
   * Run a (half) marathon
-  * Buy The Lord of the Ring
   * Pages
   * Keynote
   * Earn 10,000 USD before 20 years old
@@ -25,9 +22,13 @@ Courses on Coursera I would like to accomplish:
   * Calculus: Single Variable
   * Social Psychology
   * Think Again: How to Reason and Argue
+  * Managing Your Things for Undergrad
+  * How Things Work 1
+  * Algorithms, Part I
+  * An Intro to Financial Accounting
+  * Intro to Philosophy
+  * An Intro to Python
   * Intro to Genetics and Evolution
 
   * A breif History of Humankind
-  * An intro to Financial Accounting
   * Social Entrepreneurship
-  * Intro to Philosophy

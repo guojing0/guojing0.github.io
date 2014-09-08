@@ -20,15 +20,14 @@ What do I lack?
 Courses on Coursera I would like to accomplish:
 
   * Calculus: Single Variable
-  * Social Psychology
   * Think Again: How to Reason and Argue
-  * Managing Your Things for Undergrad
   * How Things Work 1
-  * Algorithms, Part I
   * An Intro to Financial Accounting
   * Intro to Philosophy
   * An Intro to Python
   * Intro to Genetics and Evolution
+  * Dino 101
 
   * A breif History of Humankind
   * Social Entrepreneurship
+  * Algorithms, Part I

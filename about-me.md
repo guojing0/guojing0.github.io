@@ -20,13 +20,13 @@ I enjoy writing codes and being creative, here are some projects I built:
 
 * [Instant Edit!](http://instantedit.github.io/) - Type and input anything!
 
-* [What's My IP](http://ip.guoj.org/) - Tell your current IP address in the simplest way.
+* [What's My IP](http://ip.guoj.org/) - Display your current IP address in the simplest way.
 
-* [My SICP Answers](https://github.com/guojing0/MySICPAnswers) - My answers to SICP's excerices.
+* [SICP Answers](https://github.com/guojing0/SICP-Answers) - My answers to the excercises from SICP.
 
 * [Terminal-dict](https://github.com/guojing0/terminal-dict/) - Look up words in your terminal.
 
-* [Word Frequency Counter](https://github.com/guojing0/my_python/blob/master/frequency.py) - Built to calculate the word frequency of texts.
+* [Math with Python](https://github.com/guojing0/Math-with-Python) - Interesting math programs coded in Python.
 
 * [Game theory](https://github.com/guojing0/game-theory) - Simulate the prisoner's dilemma with different strategies.
 

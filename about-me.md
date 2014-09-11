@@ -26,7 +26,7 @@ I enjoy writing codes and being creative, here are some projects I built:
 
 * [Terminal-dict](https://github.com/guojing0/terminal-dict/) - Look up words in your terminal.
 
-* [Math with Python](https://github.com/guojing0/Math-with-Python) - Interesting math programs coded in Python.
+* [Math with Programming](https://github.com/guojing0/Math-with-Programming) - Interesting math programs.
 
 * [Game theory](https://github.com/guojing0/game-theory) - Simulate the prisoner's dilemma with different strategies.
 

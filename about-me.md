@@ -59,3 +59,5 @@ MOOC Certificates
 * Warhol - 58.0% [certificate](/images/coursera-warhol.pdf)
 
 * Functional Programming Principles in Scala - 60.0% [certificate](/images/coursera-scala.pdf)
+
+* Managing Your Time, Money, and Career: MBA Insights for Undergraduates - 92.7% [certificate *with distinction*](/images/coursera-money.pdf)

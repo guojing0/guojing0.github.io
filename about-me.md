@@ -1,6 +1,6 @@
 ---
 layout: for-index
-title: My Résumé
+title: Résumé
 ---
 
 I am **Jing Guo**, a classical music lover, developer and long-distance runner.

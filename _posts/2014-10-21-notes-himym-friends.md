@@ -11,4 +11,4 @@ The most distinguishable difference is the philosophies of two stories. Two men 
 
 Despite that I'm a believer of the second philosophy, I am still aware of the odds of the first is much higher than the second. One grows as one experiences the wonder of the world, which certainly does not kill him or her making him or her a stronger or better person.
 
-I remember there is a line said by Lily in HIMYM: "*It was a long, difficult road. Thank God we finally got here*". Yeah, of course, without the context of that story, everyone heads to the very same ultimate destination, no exception. But sometimes the lucky part is that we are not alone.
+I remember there is a line said by Lily in *HIMYM*: "*It was a long, difficult road. Thank God we finally got here*". Yeah, of course, without the context of that story, everyone heads to the very same ultimate destination, no exception. But sometimes the lucky part is that we are not alone.

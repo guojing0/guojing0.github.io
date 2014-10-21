@@ -1,6 +1,6 @@
 ---
 layout: modern
-title: Notes after watching HIMYM and Friends
+title: Notes After Watching HIMYM and Friends
 ---
 
 *How I Met Your Mother* tells a story of a architecture professor, Ted Mosby, living in New York dates several wrong girls and finally meets the One or the Mother--Tracy McConnell, later known as Tracy Mosby. In the course of this story, even Ted loves Robin but fails to end up with her.

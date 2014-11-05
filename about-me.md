@@ -37,6 +37,11 @@ Organizations
 
 * Wikipedia [contributor](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.
 
+Running Records
+=====
+
+* Half marathon (21.1km) - 2:17:35
+
 MOOC Certificates
 =====
 

@@ -40,7 +40,7 @@ Organizations
 Running Records
 =====
 
-* Half marathon (21.1km) - 2:17:35
+* Half marathon (21.1km) - 2:17:35 [certificate](/images/half-marathon.jpg)
 
 MOOC Certificates
 =====

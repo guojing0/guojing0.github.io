@@ -51,6 +51,8 @@ code {
 
 img {
   width: 100%;
+  -webkit-box-shadow: 0 0 7px;
+  box-shadow: 0 0 7px;
 }
 
 time {

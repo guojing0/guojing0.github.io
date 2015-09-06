@@ -3,11 +3,11 @@ layout: for-index
 title: Résumé
 ---
 
-I am **Jing Guo**, a classical music lover, developer and long-distance runner.
+I am **Jing Guo**, a classical music lover, developer, and long-distance runner.
 
-I love blogging, programming, and am fascinated by human history, psychology, irrational behavior, mathematics, technology and MOOC. You can meet me on [Coursera](https://www.coursera.org/user/i/faf6474432089b8d58309eb2c83b5cc7) and [Khan Academy](https://www.khanacademy.org/profile/guojing/).
+I love blogging, programming, and am fascinated by human history, psychology, irrational behavior, mathematics, technology, and MOOC. I also am a fan of travelling and photography. You can meet me on [Coursera](https://www.coursera.org/user/i/faf6474432089b8d58309eb2c83b5cc7) and [LinkedIn](https://www.linkedin.com/in/imjingguo).
 
-I have been a blogger since 2009. I also love travelling and photography.
+I have been a blogger since 2009.
 
 Projects
 =====
@@ -30,10 +30,12 @@ I enjoy writing codes and being creative, here are some projects I built:
 
 * [Game theory](https://github.com/guojing0/game-theory) - Simulate the prisoner's dilemma with different strategies.
 
-Organizations
+Experience
 =====
 
 * Vice Leader of Chinese translation program for Gamification on Coursera [certificate](/images/translation.pdf)
+
+* Volunteer teaching in a special school in Kenya for two weeks with IVHQ [certificate](/images/ivhq.pdf)
 
 * Wikipedia [contributor](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.
 

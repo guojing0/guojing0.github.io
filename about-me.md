@@ -42,7 +42,8 @@ Experience
 Running Records
 =====
 
-* Half marathon (21.1km) - 2:17:35 [certificate](/images/half-marathon.jpg)
+* Half marathon (21.1km) in Shanghai in 2014 - 2:17:35 [certificate](/images/half-marathon.jpg)
+* Half marathon (21.1km) in Hong Kong in 2016 - 2:46:35 [certificate](/images/hk-hf-marathon.pdf)
 
 MOOC Certificates
 =====

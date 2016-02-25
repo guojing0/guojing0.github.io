@@ -5,7 +5,7 @@ title: 我又和自己拍拖了（一）
 
 > Also know as *An “Almost Perfect” Guide To Having A Relationship With Jing Guo*
 
-“Morning.”他发道。我的手机没有声响、没有振动，它的状态灯像黑夜一样宁静。
+“Morning.”他发道。我的手机没有声响，没有振动，它的状态灯像黑夜一样宁静。
 
 我对此并没有察觉，直到几个小时以后。我睁开朦胧的双眼，翻过身点亮手机的屏幕——
 

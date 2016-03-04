@@ -24,3 +24,7 @@ Here are some of my favourite quotes.
 > Affectation and pedantry in style are now universally condemned. -- Joseph Devlin
 
 > To follow the best authors and these masters of language will guide you safely along the way. -- Joseph Devlin
+
+### On Working
+
+> More specifically, though, mega-successful traders like Axelrod can’t just retire and play golf and jet or sail around the world– they’re not normal like the rest of us, which is how they were able to become hugely, wildly rich. Trading is the only thing that makes them feel like they have a pulse. -- Dealbreaker

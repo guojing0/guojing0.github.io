@@ -1,4 +1,7 @@
-### 我对于风之旅人（Journey）的评价
+---
+layout: modern
+title: 对于风之旅人（Journey）的评价
+---
 
 > 以下内容是我在犹他大学文学系的“视频游戏和故事性（Videogames and Storytelling）”的额外作业，从机制、动力和美学三个方面来理解一款游戏。为了保持原汁原味，以下内容没有作任何的修改。
 

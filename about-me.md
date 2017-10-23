@@ -44,6 +44,7 @@ Running Records
 
 * Half marathon (21.1km) in Shanghai in 2014 - 2:17:35 [certificate](/images/half-marathon.jpg)
 * Half marathon (21.1km) in Hong Kong in 2016 - 2:46:35 [certificate](/images/hk-hf-marathon.pdf)
+* Marathon (42.2km) in Chicago, IL in 2017 - 5:24:57 [certificate](/image/chicago-marathon.png)
 
 MOOC Certificates
 =====

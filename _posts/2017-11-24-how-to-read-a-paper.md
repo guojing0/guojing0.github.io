@@ -13,13 +13,13 @@ Year: 2007
 
 2. Keep current in the field;
 
-3. Literature survey of a new field
+3. Literature survey of a new field.
 
 ## The Three-Pass Approach
 
 * *First pass* is a quick scan to get a bird’s-eye view of the paper and gives you a general idea about it;
 
-* *Second pass* is to read the paper with greater care and grasp the content, but not its details.
+* *Second pass* is to read the paper with greater care and grasp the content, but not its details;
 
 * *Third pass* helps you understand the paper in depth.
 
@@ -47,7 +47,7 @@ It helps to jot down the key points and make comments as one reads.
 
 1. Pay attention to the graphs and diagrams, and check if the results are labelled correctly;
 
-2. Mark relevant unread references for future reading;
+2. Mark relevant unread references for future reading.
 
 #### Purposes
 

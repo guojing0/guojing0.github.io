@@ -30,8 +30,11 @@ Year: 2007
 #### Steps
 
 1. Read the title, abstract, and introduction;
+
 2. Read the section and sub-section headings;
+
 3. Read the conclusions;
+
 4. Glance over the references and mentally tick off the ones one has read.
 
 #### Purposes
@@ -45,6 +48,7 @@ It helps to jot down the key points and make comments as one reads.
 #### Steps
 
 1. Pay attention to the graphs and diagrams, and check if the results are labelled correctly;
+
 2. Mark relevant unread references for future reading;
 
 #### Purposes

@@ -1,3 +1,8 @@
+---
+layout: modern
+title: How to Read a Paper
+---
+
 # How to Read a Paper
 
 Author: S. Keshav

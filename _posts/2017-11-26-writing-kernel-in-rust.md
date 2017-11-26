@@ -4,6 +4,7 @@ title: The Case for Writing a Kernel in Rust
 ---
 
 Author: Amit Levy, Bradford Campbell, Branden Ghena, Pat Pannuto, Prabal Dutta, and Philip Levis
+
 Year: 2017
 
 ## Summary

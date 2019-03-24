@@ -9,7 +9,7 @@ In my spare time, I enjoy classical music, reading, programming, running, and th
 
 I have been writing blogs since 2009.
 
-Note: Yes, I want to do a Ph.D. in Mathematics, so my CV is [here](Jing_Guo-CV.pdf) and on the right.
+Note: Yes, I want to do a Ph.D. in Mathematics, so my CV is [here](/Jing_Guo-CV.pdf) and on the right.
 
 Running
 =====

@@ -9,7 +9,9 @@ In my spare time, I enjoy classical music, reading, programming, running, and th
 
 I have been writing blogs since 2009.
 
-Running Records
+Note: Yes, I want to do a Ph.D. in Mathematics.
+
+Running
 =====
 
 * Half marathon (21.1km) in Shanghai in 2014 - 2:17:35 [certificate](/images/half-marathon.jpg)

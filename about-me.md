@@ -3,41 +3,11 @@ layout: for-index
 title: Résumé
 ---
 
-I am **Jing Guo**, a classical music lover, developer, and long-distance runner.
+I am **Jing Guo**, currently in *Budapest Semesters in Mathematics* in Hungary. I will be back at University of Utah in Fall, 2019, majoring in Mathematics with minor in computer science (though I was once a computer science major). Prior to studying in Budapest, I studied mathematics in *Math in Moscow* in Russia.
 
-I love blogging, programming, and am fascinated by human history, psychology, irrational behavior, mathematics, technology, and MOOC. I also am a fan of travelling and photography. You can meet me on [Coursera](https://www.coursera.org/user/i/faf6474432089b8d58309eb2c83b5cc7) and [LinkedIn](https://www.linkedin.com/in/imjingguo).
+In my spare time, I enjoy classical music, reading, programming, running, and thinking.
 
-I have been a blogger since 2009.
-
-Projects
-=====
-
-I enjoy writing codes and being creative, here are some projects I built:
-
-* I See You (Not showing URL due to privacy) - A website built for celebrating anniversaries.
-
-* [自学笔记](http://notes.guoj.org/) - Learn more in shorter time.
-
-* [Instant Edit!](http://instantedit.github.io/) - Type and input anything!
-
-* [What's My IP](http://ip.guoj.org/) - Display your current IP address in the simplest way.
-
-* [SICP Answers](https://github.com/guojing0/SICP-Answers) - My answers to the excercises from SICP.
-
-* [Terminal-dict](https://github.com/guojing0/terminal-dict/) - Look up words in your terminal.
-
-* [Math with Programming](https://github.com/guojing0/Math-with-Programming) - Interesting math programs.
-
-* [Game theory](https://github.com/guojing0/game-theory) - Simulate the prisoner's dilemma with different strategies.
-
-Experience
-=====
-
-* Vice Leader of Chinese translation program for Gamification on Coursera [certificate](/images/translation.pdf)
-
-* Volunteer teaching in a special school in Kenya for two weeks with IVHQ [certificate](/images/ivhq.pdf)
-
-* Wikipedia [contributor](http://zh.wikipedia.org/wiki/User:Guojkiwi) - Contribute new content to Wikipedia.
+I have been writing blogs since 2009.
 
 Running Records
 =====
@@ -46,27 +16,9 @@ Running Records
 * Half marathon (21.1km) in Hong Kong in 2016 - 2:46:35 [certificate](/images/hk-hf-marathon.pdf)
 * Marathon (42.2km) in Chicago, IL in 2017 - 5:24:57 [certificate](/image/chicago-marathon.png)
 
-MOOC Certificates
+Interesting Experience
 =====
 
-* Learn to Program: The Fundamentals - 86.4% [certificate](/images/coursera-prog.pdf)
+* Vice Leader of Chinese translation program for *Gamification* on Coursera [certificate](/images/translation.pdf)
 
-* Machine Learning - 99.3% [certificate](/images/coursera-ml.pdf)
-
-* Crafting an Effective Writer: Tools of the Trade - 92.3% [certificate](/images/coursera-writing.pdf)
-
-* Gamification - 85.5% [cerificate](/images/coursera-gamification.pdf)
-
-* A Beginner's Guide to Irrational Behavior - 95.1% [certificate *with distinction*](/images/coursera-irrational.pdf)
-
-* The Data Scientist’s Toolbox - 97.0% [certificate *with distinction*](/images/coursera-databox.pdf)
-
-* The New Nordic Diet - from Gastronomy to Health - 100% [certificate *with distinction*](/images/coursera-nordic.pdf)
-
-* Marriage and the Movies: A History - 100% [certificate](/images/coursera-marriage.pdf)
-
-* Warhol - 58.0% [certificate](/images/coursera-warhol.pdf)
-
-* Functional Programming Principles in Scala - 60.0% [certificate](/images/coursera-scala.pdf)
-
-* Managing Your Time, Money, and Career: MBA Insights for Undergraduates - 92.7% [certificate *with distinction*](/images/coursera-money.pdf)
+* Volunteer teaching English and natural science in Kenya for two weeks with IVHQ [certificate](/images/ivhq.pdf)

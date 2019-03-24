@@ -3,7 +3,7 @@ layout: for-index
 title: Résumé
 ---
 
-I am **Jing Guo**, currently in *Budapest Semesters in Mathematics* in Hungary. I will be back at University of Utah in Fall, 2019, majoring in Mathematics with minor in computer science (though I was once a computer science major). Prior to studying in Budapest, I studied mathematics in *Math in Moscow* in Russia.
+I am **Jing Guo**, currently in *Budapest Semesters in Mathematics* in Hungary. I will be back at University of Utah in Fall, 2019, majoring in Mathematics with minor in Computer Science (though I was once a Computer Science major). Prior to studying in Budapest, I studied mathematics in *Math in Moscow* in Russia.
 
 In my spare time, I enjoy classical music, reading, programming, running, and thinking.
 

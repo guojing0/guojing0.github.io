@@ -11,7 +11,7 @@ I have been writing blogs since 2009.
 
 Note: Yes, I want to do a Ph.D. in Mathematics, so my CV is [here](/Jing_Guo-CV.pdf) and on the right.
 
-Here is an [article](https://sites.cs.ucsb.edu/~daniello/papers/octIterComp.pdf) about my experience in Math in Moscow and Budapest Semesters in Math programs on the website of math department of University of Utah
+Here is an [article](https://sites.cs.ucsb.edu/~daniello/papers/octIterComp.pdf) about my experience in Math in Moscow and Budapest Semesters in Math programs on the website of math department of University of Utah.
 
 Running
 =====

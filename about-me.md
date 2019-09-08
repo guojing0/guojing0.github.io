@@ -3,15 +3,9 @@ layout: for-index
 title: About
 ---
 
-I am **Jing Guo**, currently in *Budapest Semesters in Mathematics* in Hungary. I will be back at University of Utah in Fall, 2019, majoring in Mathematics with minor in Computer Science (though I was once a Computer Science major). Prior to studying in Budapest, I studied mathematics in *Math in Moscow* in Russia.
-
-In my spare time, I enjoy classical music, reading, programming, running, and thinking.
+I am **Jing Guo**, currently a senior majoring in Mathematics with minor in Computer Science (though I was a Computer Science major once). Prior to studying in Utah, I studied mathematics in *Budapest Semesters in Mathematics* in Hungary and *Math in Moscow* in Russia. Here is an [article](http://www.math.utah.edu/about/news/Studying-Abroad-Dylan-Johnson-and-Jing-Guo.php) on my experience in both programs on the website of math department of University of Utah.
 
 I have been writing blogs since 2009.
-
-Note: Yes, I want to do a Ph.D. in Mathematics, so my CV is [here](/Jing_Guo-CV.pdf) and on the right.
-
-Here is an [article](http://www.math.utah.edu/about/news/Studying-Abroad-Dylan-Johnson-and-Jing-Guo.php) about my experience in Math in Moscow and Budapest Semesters in Math programs on the website of math department of University of Utah.
 
 Running
 =====

@@ -17,10 +17,14 @@ title: Combinatorics Journals
 
 7. [European Journal of Combinatorics](https://www.journals.elsevier.com/european-journal-of-combinatorics/)
 
-8. [Discrete Mathematics](https://www.sciencedirect.com/journal/discrete-mathematics)
+8. [Journal of Graph Theory](https://onlinelibrary.wiley.com/journal/10970118)
 
-9. [SIAM Journal on Discrete Mathematics](https://epubs.siam.org/toc/sjdmec/current)
+9. [The Electronic Journal of Combinatorics](https://www.combinatorics.org/)
 
-10. [Random Structure and Algorithms](https://onlinelibrary.wiley.com/journal/10982418)
+10. [Discrete Mathematics](https://www.sciencedirect.com/journal/discrete-mathematics)
 
-11. [Combinatorics, Probability and Computing](https://www.cambridge.org/core/journals/combinatorics-probability-and-computing)
+11. [SIAM Journal on Discrete Mathematics](https://epubs.siam.org/toc/sjdmec/current)
+
+12. [Random Structure and Algorithms](https://onlinelibrary.wiley.com/journal/10982418)
+
+13. [Combinatorics, Probability and Computing](https://www.cambridge.org/core/journals/combinatorics-probability-and-computing)
